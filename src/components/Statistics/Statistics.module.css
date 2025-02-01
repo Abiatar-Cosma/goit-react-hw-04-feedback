@@ -1,0 +1,10 @@
+.statistics {
+  text-align: left;
+  margin: 20px auto;
+  width: 300px;
+}
+
+p {
+  margin: 5px 0;
+  font-size: 16px;
+}
